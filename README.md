@@ -8,6 +8,6 @@ Examples compilation repository 2025
 ## More information
 
 * Medium post prophet: [Here](https://medium.com/@paullo0106/time-series-forecast-anomaly-detection-with-facebook-prophet-558136be4b8d?)
-* Medium post real-time series:[Here](https://towardsdatascience.com/real-time-time-series-anomaly-detection-981cf1e1ca13/)
+* Medium post real-time series: [Here](https://towardsdatascience.com/real-time-time-series-anomaly-detection-981cf1e1ca13/)
 * Notebooks: [Here](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master)
 
