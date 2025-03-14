@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+cmdstanpy==0.9.5
+holidays==0.18
+prophet==1.1.1
