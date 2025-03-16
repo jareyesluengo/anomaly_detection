@@ -7,3 +7,8 @@ holidays==0.18
 prophet==1.1.1
 tsmoothie
 celluloid
+statsmodels
+scikit-learn
+pmdarima
+ruptures
+adtk
